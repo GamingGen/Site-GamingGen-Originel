@@ -1,2 +1,2 @@
-# Site-GamingGen-V0.1.0
+# Site-GamingGen-Originel
 Site Web de l'association GamingGen
